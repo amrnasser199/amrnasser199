@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amrnasser199
 - 👀 I’m interested in Working as Web Developer (.Net)
-- 🌱 I’m currently learning Javascript and Angular to become Full Stack Web Developer
+- 🌱 I’m currently learning Angular to become Full Stack Web Developer
 - 💞️ I’m looking to collaborate on Working in Collaborating company seeking development
 - 📫 How to reach me ..Email:amrelzanaty0@gmail.com
                         mobile:01158126652
